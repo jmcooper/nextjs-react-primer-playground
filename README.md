@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Primer Playground
+Open [https://stackblitz.com/github/jmcooper/nextjs-react-primer-playground](https://stackblitz.com/github/jmcooper/nextjs-react-primer-playground?file=src/App.js) to play with this project in a live environment right in your browser!
+
+This repo and the associate Stackblitz playground environment (link above) are for use with the Pluralsight `React with Next.js Playbook` course.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
